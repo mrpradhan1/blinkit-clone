@@ -62,6 +62,10 @@
     align-items: center;
     margin-inline:auto;
 }
+h1{
+    margin-left: 9vw;
+    padding-block: 1vw;
+}
 .my-product-card{
     width:179px;
     padding:13px;
@@ -114,11 +118,9 @@
     width:81vw;
     overflow-x: auto;
     margin-inline:auto;
-    overflow: visible;
 }
 .my-product-card{
     width:100%;
     margin-inline: auto;
     white-space: nowrap;
-    display: inline-block;
 }

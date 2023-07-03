@@ -5,9 +5,11 @@
     --color-black:rgb(0,0,0);
     --color-gray:rgb(130,130,130);
     --color-lightest-green:rgb(247,255,249);
-    --fw:700;
-    --fw:600;
-    --fw:500;
-    --fw:400;
+    --fw900:900;
+    --fw800:800;
+    --fw700:700;
+    --fw600:600;
+    --fw500:500;
+    --fw400:400;
     --font-family: 'Poppins', sans-serif;
 }
